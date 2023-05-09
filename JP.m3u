@@ -1,4 +1,3 @@
-#Kantov
 #EXTINF:-1 tvg-id="nhkg" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Kanto / 関東",NHK G
 http://rip.hidari.moe/get/jptv/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
 #EXTINF:-1 tvg-id="nhke" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Kanto / 関東",NHK E
@@ -17,7 +16,6 @@ http://rip.hidari.moe/get/jptv/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
 http://rip.hidari.moe/get/jptv/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Kanto / 関東",TOKYO MX 2
 http://rip.hidari.moe/get/jptv/get.php?id=u6-t-I0UVIdrkCYJzXFkpg==
-#Kansaiv
 #EXTINF:-1 tvg-id="nhkgosaka" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Kansai / 関西",NHK G Osaka
 http://rip.hidari.moe/get/jptv/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
 #EXTINF:-1 tvg-id="nhkeosaka" tvg-name="NHK E Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Kansai / 関西",NHK E Osaka
@@ -36,7 +34,6 @@ http://rip.hidari.moe/get/jptv/get.php?id=czZDtneIVvfAZn-728ylZw==
 http://rip.hidari.moe/get/jptv/get.php?id=E7fZyuqrQ657ODVKC1Wj7g==
 #EXTINF:-1 tvg-id="kbs" tvg-name="KBS Kyoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai / 関西",KBS Kyoto
 http://rip.hidari.moe/get/jptv/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
-#BS
 #EXTINF:-1 tvg-id="nhkbs1" tvg-name="NHK BS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1
 http://rip.hidari.moe/get/jptv/get.php?id=f-uLAeVdSWp9bd1XFM3Pzw==
 #EXTINF:-1 tvg-id="nhkbsp" tvg-name="NHK BS Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium
@@ -87,7 +84,6 @@ http://rip.hidari.moe/get/jptv/get.php?id=TfcJ9kWH1CIOv9xAI6BrBA==
 http://rip.hidari.moe/get/jptv/get.php?id=EZ01kN4IL0TFHR5h9Jq9BA==
 #EXTINF:-1 tvg-id="disneych" tvg-name="Disney Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg" group-title="BS",Disney Channel
 http://rip.hidari.moe/get/jptv/get.php?id=iEpvKTL_zcrh2cTR1D8EUA==
-#CS
 #EXTINF:-1 tvg-id="toeich" tvg-name="東映チャンネル / Toei Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS",東映チャンネル / Toei Channel
 http://rip.hidari.moe/get/jptv/get.php?id=jfiMPwRAVsgTmcnf9Wu7HQ==
 #EXTINF:-1 tvg-id="eigeki" tvg-name="衛星劇場 / Eisei Gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="CS",衛星劇場 / Eisei Gekijo
