@@ -1,40 +1,40 @@
-#EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U
 
-#EXTINF:-1 tvg-id="nhkg" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Kanto / 関東",NHK G
+#EXTINF:-1 tvg-id="nhkg" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="関東",NHK G
 http://rip.hidari.moe/get/jptv/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
-#EXTINF:-1 tvg-id="nhke" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Kanto / 関東",NHK E
+#EXTINF:-1 tvg-id="nhke" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="関東",NHK E
 http://rip.hidari.moe/get/jptv/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="Kanto / 関東",NTV
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="関東",NTV
 http://rip.hidari.moe/get/jptv/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
-#EXTINF:-1 tvg-id="tbs" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Kanto / 関東",TBS
+#EXTINF:-1 tvg-id="tbs" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="関東",TBS
 http://rip.hidari.moe/get/jptv/get.php?id=bRZUMcrX_kQ5R0XP-xJcZg==
-#EXTINF:-1 tvg-id="fujitv" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="Kanto / 関東",Fuji TV
+#EXTINF:-1 tvg-id="fujitv" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="関東",Fuji TV
 http://rip.hidari.moe/get/jptv/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
-#EXTINF:-1 tvg-id="tvasahi" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="Kanto / 関東",TV Asahi
+#EXTINF:-1 tvg-id="tvasahi" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="関東",TV Asahi
 http://rip.hidari.moe/get/jptv/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
-#EXTINF:-1 tvg-id="tvtokyo" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="Kanto / 関東",TV Tokyo
+#EXTINF:-1 tvg-id="tvtokyo" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="関東",TV Tokyo
 http://rip.hidari.moe/get/jptv/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
-#EXTINF:-1 tvg-id="tokyomx" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Kanto / 関東",TOKYO MX1
+#EXTINF:-1 tvg-id="tokyomx" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="関東",TOKYO MX1
 http://rip.hidari.moe/get/jptv/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Kanto / 関東",TOKYO MX 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="関東",TOKYO MX 2
 http://rip.hidari.moe/get/jptv/get.php?id=u6-t-I0UVIdrkCYJzXFkpg==
-#EXTINF:-1 tvg-id="nhkgosaka" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Kansai / 関西",NHK G Osaka
+#EXTINF:-1 tvg-id="nhkgosaka" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="関西",NHK G Osaka
 http://rip.hidari.moe/get/jptv/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
-#EXTINF:-1 tvg-id="nhkeosaka" tvg-name="NHK E Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Kansai / 関西",NHK E Osaka
+#EXTINF:-1 tvg-id="nhkeosaka" tvg-name="NHK E Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="関西",NHK E Osaka
 http://rip.hidari.moe/get/jptv/get.php?id=Efifu_2sffWgvfUzPuoNvA==
-#EXTINF:-1 tvg-id="mbs" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="Kansai / 関西",MBS
+#EXTINF:-1 tvg-id="mbs" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="関西",MBS
 http://rip.hidari.moe/get/jptv/get.php?id=R3W0ABMki1QGwd3TxPxjhA==
-#EXTINF:-1 tvg-id="abc" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="Kansai / 関西",ABC
+#EXTINF:-1 tvg-id="abc" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="関西",ABC
 http://rip.hidari.moe/get/jptv/get.php?id=oI8q04LSmuVJ76lxll2FWg==
-#EXTINF:-1 tvg-id="ktv" tvg-name="Kansai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png" group-title="Kansai / 関西",Kansai TV
+#EXTINF:-1 tvg-id="ktv" tvg-name="Kansai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png" group-title="関西",Kansai TV
 http://rip.hidari.moe/get/jptv/get.php?id=jXAkGPMC5sVcMvQ09HoU4g==
-#EXTINF:-1 tvg-id="ytv" tvg-name="Yomiuri TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="Kansai / 関西",Yomiuri TV
+#EXTINF:-1 tvg-id="ytv" tvg-name="Yomiuri TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="関西",Yomiuri TV
 http://rip.hidari.moe/get/jptv/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
-#EXTINF:-1 tvg-id="tvosaka" tvg-name="TV Osaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png" group-title="Kansai / 関西",TV Osaka
+#EXTINF:-1 tvg-id="tvosaka" tvg-name="TV Osaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png" group-title="関西",TV Osaka
 http://rip.hidari.moe/get/jptv/get.php?id=czZDtneIVvfAZn-728ylZw==
-#EXTINF:-1 tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="Kansai / 関西",SUN TV
+#EXTINF:-1 tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="関西",SUN TV
 http://rip.hidari.moe/get/jptv/get.php?id=E7fZyuqrQ657ODVKC1Wj7g==
-#EXTINF:-1 tvg-id="kbs" tvg-name="KBS Kyoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai / 関西",KBS Kyoto
+#EXTINF:-1 tvg-id="kbs" tvg-name="KBS Kyoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="関西",KBS Kyoto
 http://rip.hidari.moe/get/jptv/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
 #EXTINF:-1 tvg-id="nhkbs1" tvg-name="NHK BS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1
 http://rip.hidari.moe/get/jptv/get.php?id=f-uLAeVdSWp9bd1XFM3Pzw==
